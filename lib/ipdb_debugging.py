@@ -2,6 +2,6 @@
 
 import ipdb
 
-def plus_two(num):
-    num + 2
-    return num
+def adds_two(num):
+    """Adds 2 to input and returns sum"""
+    return num + 2
